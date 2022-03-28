@@ -14,7 +14,7 @@ public class Starter {
 	 */
 	public static void main(String[] args) {
 		
-		System.out.println("Let the system start ...");
+		System.out.println("Let start ...");
 
 	}
 
