@@ -48,4 +48,4 @@ To ensure interoperability among the different parts (done by different groups),
 
 ### Hint 5: Creativity and Innovation 
 
-Feel free to bring in any innovative and creative ideas to the system after completing the required core features. Make sure your ideas fit in the overall design / model. Ensure proper and clean documentation and communication of your ideas. 
+Feel free to bring in any innovative and creative ideas to the system after completing the required core features. Make sure your ideas fit in the overall design / model. Ensure proper and clean documentation and communication of your ideas.    
